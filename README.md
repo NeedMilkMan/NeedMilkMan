@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, Daveace Rodriguez! <br/><a href="#">BSIT Student</a>, <a href="#">Photographer/Videographer</a>, <a href="#">Video Editor</a></h1>
 
-<!--
-**NeedMilkMan/NeedMilkMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects & Coursework:</h2>
 
-Here are some ideas to get you started:
+- <b>Information Technology & Coding</b>
+  - [GREEN HORIZON: Gamified Interactive Platform](#)
+  - [Data Structures & Algorithms Implementations](#)
+  - [SQL Database Management & Trigger Setup](#)
+  - [Network Configuration Simulation (Cisco Packet Tracer)](#)
+- <b>Multimedia & Video Production</b>
+  - [Sa Gitna ng Kawayan (Documentary Scripting & Direction)](#)
+  - [Video Editing Portfolio (Premiere Pro, DaVinci Resolve, CapCut)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Featured Videos & Edits</h2>
+
+- [Documentary Teaser: Sa Gitna ng Kawayan](#)
+- [Color Grading Showcase (DaVinci Resolve)](#)
+- [Cinematic B-Roll Compilation (Adobe Premiere Pro)](#)
+- [Short-form Creative Content (CapCut)](#)
+
